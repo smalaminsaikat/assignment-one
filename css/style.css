@@ -292,3 +292,70 @@ body {
     width: 140px;
     height: 140px;
   }
+  
+  /* Section six */
+  
+  .section-six-container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+  }
+  
+  .section-six {
+    width: 1320px;
+    height: 968px;
+    margin-top: 120px;
+    position: relative;
+  }
+  
+  .section-six-title h3 {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 28px;
+  }
+  
+  .section-six-title h1 {
+    font-size: 72px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 28px;
+  }
+  
+  .section-six-title h1 span {
+    color: red;
+  }
+  
+  .section-six-title p {
+    font-size: 20px;
+    text-align: center;
+    padding-left: 290px;
+    padding-right: 290px;
+    margin-bottom: 64px;
+  }
+  
+  .section-six-content .section-six-image1 {
+    margin-top: 10px;
+    position: absolute;
+    right: 0;
+  }
+  
+  .section-six-content .section-six-image2 {
+    position: absolute;
+    bottom: 0;
+  }
+  
+  .section-six-content .section-six-image3 {
+    position: absolute;
+    left: 0;
+    width: 664px;
+    height: 557px;
+  }
+  
+  .section-six-content .section-six-image4 {
+    position: absolute;
+    bottom: 300px;
+    right: 300px;
+  }
+  
+  /* Section six */
