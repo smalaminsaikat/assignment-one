@@ -358,4 +358,61 @@ body {
     right: 300px;
   }
   
-  /* Section six */
+  /* Section seven */
+  
+  .section-seven-container {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+  }
+  
+  .section-seven {
+    width: 1320px;
+    height: 1163px;
+    position: relative;
+    margin-top: 120px;
+  }
+  
+  .section-seven-title h3 {
+    font-size: 24px;
+    font-weight: 700;
+    color: red;
+    text-align: left;
+    margin-bottom: 16px;
+  }
+  
+  .section-seven-title h1 {
+    font-size: 48px;
+    font-weight: bold;
+    color: black;
+    text-align: left;
+    margin-bottom: 22px;
+  }
+  
+  .section-seven-title p {
+    font-size: 20px;
+    color: black;
+    text-align: left;
+    margin-bottom: 49px;
+    width: 50%;
+  }
+  
+  .section-seven-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+  }
+  
+  .section-seven-row {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+  }
+  
+  .section-seven-row > div {
+    flex: 1;
+    text-align: center; 
+    padding: 10px; 
+  }
